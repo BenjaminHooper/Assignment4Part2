@@ -1,3 +1,5 @@
+//Ben Hooper 
+//Used template but edited by me
 // Declare an array of image filenames
 const imageFilenames = ['pic1.jpg', 'pic2.jpg', 'pic3.jpg', 'pic4.jpg', 'pic5.jpg'];
 
